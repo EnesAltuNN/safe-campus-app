@@ -1,0 +1,1 @@
+// Buraya fotoğraf ekleme ile ilgili fonksiyonlar gelecek şimdilik boş olarak kalsın
