@@ -1,0 +1,11 @@
+# Veritabanı yedekleri / dökümleri — kişisel veri içerir, repoya EKLENMEZ
+*.bak
+*.bacpac
+database/*.bak
+
+# Ortam değişkenleri
+.env
+.env.*
+!.env.example
+.claude/
+.vscode/
